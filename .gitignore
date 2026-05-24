@@ -2,6 +2,7 @@
 *.lck
 *.bak
 *.tmp
+*.before_revise_backup
 *-backups/
 .history/
 
